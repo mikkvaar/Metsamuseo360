@@ -243,52 +243,7 @@ var APP_DATA = {
         }
       ]
     }
-    ,
-    {
-      "id": "5-placeholder6",
-      "name": "Placeholder6",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1920,
-      "initialViewParameters": {
-        "yaw": -1.3034077354947087,
-        "pitch": -0.7831902878611956,
-        "fov": 1.3365071038314758
-      },
-      "linkHotspots": [
-        {
-          "yaw": 0.35334233856607433,
-          "pitch": 0.11513050944559922,
-          "rotation": 0,
-          "target": "0-placeholder"
-        }
-      ],
-      "infoHotspots": [
-        {
-          "yaw": -1.4613352183552166,
-          "pitch": -0.7989806537119648,
-          "title": "Lorem ipsum dolor sit amet",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&nbsp;"
-        }
-      ]
-    }
+    
   ],
   "name": "Metsämuseo idea",
   "settings": {
